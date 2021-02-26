@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad18e230-a283-491f-abaf-e971b04eb45b" name="Default Changelist" comment="refactoring VCS">
+    <list default="true" id="ad18e230-a283-491f-abaf-e971b04eb45b" name="Default Changelist" comment="integrated chrome driver - exe file&#10;integrated selenium webdriver">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +15,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="hap3m8" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="capstoneProject" />
+  </component>
   <component name="ProjectId" id="1olNWrqSLNHtQdOkH0DpIoiX0Mb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,6 +28,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -75,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614117007798</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="integrated chrome driver - exe file&#10;integrated selenium webdriver">
+      <created>1614301562759</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614301562759</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +109,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project name edited" />
     <MESSAGE value="refactoring VCS" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring VCS" />
+    <MESSAGE value="integrated chrome driver - exe file&#10;integrated selenium webdriver" />
+    <option name="LAST_COMMIT_MESSAGE" value="integrated chrome driver - exe file&#10;integrated selenium webdriver" />
   </component>
 </project>
